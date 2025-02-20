@@ -26,8 +26,7 @@ ln -s /Users/kaushal/Github/.dotfiles/.gitconfig ~/.gitconfig
 ## 4. Install Homebrew, followed by installing softwares listed in Brewfile
 Install Homebrew
 ```sh
-/bin/bash -c "$(curl -fsSL
-https://raw-githubusercontent. com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 Then pass in the Brewfile location...
 ```
