@@ -1,0 +1,9 @@
+[user]
+	name = Kaushal Singh
+	email = 80886710+17kaushalsingh@users.noreply.github.com
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[alias]
+
+[core]
+	editor = code --wait
